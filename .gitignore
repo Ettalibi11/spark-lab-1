@@ -1,0 +1,4 @@
+venv/ 
+jdk/ 
+hadoop/ 
+__pycache__/ 
